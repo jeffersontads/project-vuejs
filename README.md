@@ -1,4 +1,10 @@
-# app-fozbikefalls
+# Projeto para desenvolvimento de um app web com vueJS
+
+##API WORDPRESS SETUP
+Instalar o Wordpress juntamente com os seguintes plugins
+	
+-> Simple Website Redirect
+-> JWT Authentication for WP-API
 
 ## Project setup
 ```
