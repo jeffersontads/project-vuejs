@@ -10,7 +10,7 @@
         light
         shaped
       >
-        <v-toolbar-title>Gerenciar Postagens</v-toolbar-title>
+        <v-toolbar-title>Gerenciar Postagens!</v-toolbar-title>
         <v-spacer></v-spacer>
         <v-dialog
           v-model="dialog"
