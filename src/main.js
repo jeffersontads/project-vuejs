@@ -10,7 +10,7 @@ import VueAxios from 'vue-axios'
 Vue.use(VueAxios, axios)
 
 //url base da nossa api
-axios.defaults.baseURL = 'http://fozbike.local/';
+axios.defaults.baseURL = 'http://nextjstestapi.local/';
 
 Vue.config.productionTip = false
 
